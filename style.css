@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+
+}
+
+img{
+    border-radius: 15px;
+}
